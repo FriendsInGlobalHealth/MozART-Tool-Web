@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dercio.bucuane\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dercio.bucuane\\.nuget\\packages"
+    ]
+  }
+}
