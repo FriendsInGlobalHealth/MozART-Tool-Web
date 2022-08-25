@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "kQy4WXdsEGHceRr9c4I+5kPJgJ4Nmprlu6fx0EcgIasq+AbL6Yrtesvd43LZji937i2Grn5pT9gwPDCkCmLW1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dercio.bucuane\\Documents\\Visual Studio 2019\\Projects\\MozartCLIv1\\src\\Main.Domain\\Main.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dercio.bucuane\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.10\\microsoft.aspnetcore.authentication.jwtbearer.5.0.10.nupkg.sha512",
+    "C:\\Users\\dercio.bucuane\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\dercio.bucuane\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\dercio.bucuane\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\dercio.bucuane\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\dercio.bucuane\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\dercio.bucuane\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\dercio.bucuane\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\dercio.bucuane\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
