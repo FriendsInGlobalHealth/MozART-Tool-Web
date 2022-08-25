@@ -1,0 +1,829 @@
+{
+  "01": [
+    {
+      "province": "Cidade de Maputo",
+      "name": "KaMpfumu",
+      "id": "01"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "name": "Nhlamankulu",
+      "id": "02"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "name": "KaMaxakeni",
+      "id": "03"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "name": "KaMavota",
+      "id": "04"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "name": "KaMubukwana",
+      "id": "05"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "name": "KaTembe",
+      "id": "06"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "name": "KaNyaka",
+      "id": "07"
+    }
+  ],
+  "02": [
+    {
+      "province": "Maputo",
+      "name": "Matutuine",
+      "id": "01"
+    },
+    {
+      "province": "Maputo",
+      "name": "Namaacha",
+      "id": "02"
+    },
+    {
+      "province": "Maputo",
+      "name": "Boane",
+      "id": "03"
+    },
+    {
+      "province": "Maputo",
+      "name": "Matola",
+      "id": "04"
+    },
+    {
+      "province": "Maputo",
+      "name": "Marracuene",
+      "id": "05"
+    },
+    {
+      "province": "Maputo",
+      "name": "Moamba",
+      "id": "06"
+    },
+    {
+      "province": "Maputo",
+      "name": "Manhiça",
+      "id": "07"
+    },
+    {
+      "province": "Maputo",
+      "name": "Magude",
+      "id": "08"
+    }
+  ],
+  "03": [
+    {
+      "province": "Gaza",
+      "name": "Chongoene",
+      "id": "01"
+    },
+    {
+      "province": "Gaza",
+      "name": "Xai-Xai",
+      "id": "02"
+    },
+    {
+      "province": "Gaza",
+      "name": "Limpopo",
+      "id": "03"
+    },
+    {
+      "province": "Gaza",
+      "name": "Bilene",
+      "id": "04"
+    },
+    {
+      "province": "Gaza",
+      "name": "Mandlakazi",
+      "id": "05"
+    },
+    {
+      "province": "Gaza",
+      "name": "Chibuto",
+      "id": "06"
+    },
+    {
+      "province": "Gaza",
+      "name": "Chókwè",
+      "id": "07"
+    },
+    {
+      "province": "Gaza",
+      "name": "Guijá",
+      "id": "08"
+    },
+    {
+      "province": "Gaza",
+      "name": "Chigubo",
+      "id": "09"
+    },
+    {
+      "province": "Gaza",
+      "name": "Mabalane",
+      "id": "10"
+    },
+    {
+      "province": "Gaza",
+      "name": "Massingir",
+      "id": "11"
+    },
+    {
+      "province": "Gaza",
+      "name": "Mapai",
+      "id": "12"
+    },
+    {
+      "province": "Gaza",
+      "name": "Chicualacuala",
+      "id": "13"
+    },
+    {
+      "province": "Gaza",
+      "name": "Massangena",
+      "id": "14"
+    }
+  ],
+  "04": [
+    {
+      "province": "Inhambane",
+      "name": "Zavala",
+      "id": "01"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Inharrime",
+      "id": "02"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Jangamo",
+      "id": "03"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Inhambane",
+      "id": "04"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Maxixe",
+      "id": "05"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Homoíne",
+      "id": "06"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Panda",
+      "id": "07"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Morrumbene",
+      "id": "08"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Massinga",
+      "id": "09"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Funhalouro",
+      "id": "10"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Vilankulo",
+      "id": "11"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Mabote",
+      "id": "12"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Inhassoro",
+      "id": "13"
+    },
+    {
+      "province": "Inhambane",
+      "name": "Govuro",
+      "id": "14"
+    }
+  ],
+  "05": [
+    {
+      "province": "Sofala",
+      "name": "Machanga",
+      "id": "01"
+    },
+    {
+      "province": "Sofala",
+      "name": "Búzi",
+      "id": "02"
+    },
+    {
+      "province": "Sofala",
+      "name": "Chibabava",
+      "id": "03"
+    },
+    {
+      "province": "Sofala",
+      "name": "Beira",
+      "id": "04"
+    },
+    {
+      "province": "Sofala",
+      "name": "Dondo",
+      "id": "05"
+    },
+    {
+      "province": "Sofala",
+      "name": "Nhamatanda",
+      "id": "06"
+    },
+    {
+      "province": "Sofala",
+      "name": "Muanza",
+      "id": "07"
+    },
+    {
+      "province": "Sofala",
+      "name": "Gorongosa",
+      "id": "08"
+    },
+    {
+      "province": "Sofala",
+      "name": "Marromeu",
+      "id": "09"
+    },
+    {
+      "province": "Sofala",
+      "name": "Cheringoma",
+      "id": "10"
+    },
+    {
+      "province": "Sofala",
+      "name": "Caia",
+      "id": "11"
+    },
+    {
+      "province": "Sofala",
+      "name": "Marínguè",
+      "id": "12"
+    },
+    {
+      "province": "Sofala",
+      "name": "Chemba",
+      "id": "13"
+    }
+  ],
+  "06": [
+    {
+      "province": "Manica",
+      "name": "Machaze",
+      "id": "01"
+    },
+    {
+      "province": "Manica",
+      "name": "Mossurize",
+      "id": "02"
+    },
+    {
+      "province": "Manica",
+      "name": "Sussundenga",
+      "id": "03"
+    },
+    {
+      "province": "Manica",
+      "name": "Macate",
+      "id": "04"
+    },
+    {
+      "province": "Manica",
+      "name": "Gondola",
+      "id": "05"
+    },
+    {
+      "province": "Manica",
+      "name": "Chimoio",
+      "id": "06"
+    },
+    {
+      "province": "Manica",
+      "name": "Vanduzi",
+      "id": "07"
+    },
+    {
+      "province": "Manica",
+      "name": "Manica",
+      "id": "08"
+    },
+    {
+      "province": "Manica",
+      "name": "Macossa",
+      "id": "09"
+    },
+    {
+      "province": "Manica",
+      "name": "Báruè",
+      "id": "10"
+    },
+    {
+      "province": "Manica",
+      "name": "Tambara",
+      "id": "11"
+    },
+    {
+      "province": "Manica",
+      "name": "Guro",
+      "id": "12"
+    }
+  ],
+  "07": [
+    {
+      "province": "Tete",
+      "name": "Mutarara",
+      "id": "01"
+    },
+    {
+      "province": "Tete",
+      "name": "Dôa",
+      "id": "02"
+    },
+    {
+      "province": "Tete",
+      "name": "Changara",
+      "id": "03"
+    },
+    {
+      "province": "Tete",
+      "name": "Moatize",
+      "id": "04"
+    },
+    {
+      "province": "Tete",
+      "name": "Tete",
+      "id": "05"
+    },
+    {
+      "province": "Tete",
+      "name": "Marara",
+      "id": "06"
+    },
+    {
+      "province": "Tete",
+      "name": "Cahora-Bassa",
+      "id": "07"
+    },
+    {
+      "province": "Tete",
+      "name": "Mágoè",
+      "id": "08"
+    },
+    {
+      "province": "Tete",
+      "name": "Tsangano",
+      "id": "09"
+    },
+    {
+      "province": "Tete",
+      "name": "Chiúta",
+      "id": "10"
+    },
+    {
+      "province": "Tete",
+      "name": "Marávia",
+      "id": "11"
+    },
+    {
+      "province": "Tete",
+      "name": "Zumbu",
+      "id": "12"
+    },
+    {
+      "province": "Tete",
+      "name": "Angónia",
+      "id": "13"
+    },
+    {
+      "province": "Tete",
+      "name": "Macanga",
+      "id": "14"
+    },
+    {
+      "province": "Tete",
+      "name": "Chifunde",
+      "id": "15"
+    }
+  ],
+  "08": [
+    {
+      "province": "Zambézia",
+      "name": "Chinde",
+      "id": "01"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Luabo",
+      "id": "02"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Inhassunge",
+      "id": "03"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Quelimane",
+      "id": "04"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Mopeia",
+      "id": "05"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Namacurra",
+      "id": "06"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Nicoadala",
+      "id": "07"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Maganja da Costa",
+      "id": "08"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Mocubela",
+      "id": "09"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Mocuba",
+      "id": "10"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Derre",
+      "id": "11"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Morrumbala",
+      "id": "12"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Pebane",
+      "id": "13"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Mulevala",
+      "id": "14"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Lugela",
+      "id": "15"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Milange",
+      "id": "16"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Gilé",
+      "id": "17"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Alto Molócuè",
+      "id": "18"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Ile",
+      "id": "19"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Namarrói",
+      "id": "20"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Molumbo",
+      "id": "21"
+    },
+    {
+      "province": "Zambézia",
+      "name": "Guruè",
+      "id": "22"
+    }
+  ],
+  "09": [
+    {
+      "province": "Nampula",
+      "name": "Moma",
+      "id": "01"
+    },
+    {
+      "province": "Nampula",
+      "name": "Larde",
+      "id": "02"
+    },
+    {
+      "province": "Nampula",
+      "name": "Angoche",
+      "id": "03"
+    },
+    {
+      "province": "Nampula",
+      "name": "Mogovolas",
+      "id": "04"
+    },
+    {
+      "province": "Nampula",
+      "name": "Murrupula",
+      "id": "05"
+    },
+    {
+      "province": "Nampula",
+      "name": "Liúpo",
+      "id": "06"
+    },
+    {
+      "province": "Nampula",
+      "name": "Mogincual",
+      "id": "07"
+    },
+    {
+      "province": "Nampula",
+      "name": "Meconta",
+      "id": "08"
+    },
+    {
+      "province": "Nampula",
+      "name": "Nampula",
+      "id": "09"
+    },
+    {
+      "province": "Nampula",
+      "name": "Rapale",
+      "id": "10"
+    },
+    {
+      "province": "Nampula",
+      "name": "Ribáuè",
+      "id": "11"
+    },
+    {
+      "province": "Nampula",
+      "name": "Malema",
+      "id": "12"
+    },
+    {
+      "province": "Nampula",
+      "name": "Ilha de Moçambique",
+      "id": "13"
+    },
+    {
+      "province": "Nampula",
+      "name": "Mossuril",
+      "id": "14"
+    },
+    {
+      "province": "Nampula",
+      "name": "Monapo",
+      "id": "15"
+    },
+    {
+      "province": "Nampula",
+      "name": "Muecate",
+      "id": "16"
+    },
+    {
+      "province": "Nampula",
+      "name": "Mecubúri",
+      "id": "17"
+    },
+    {
+      "province": "Nampula",
+      "name": "Lalaua",
+      "id": "18"
+    },
+    {
+      "province": "Nampula",
+      "name": "Nacala",
+      "id": "19"
+    },
+    {
+      "province": "Nampula",
+      "name": "Nacala-a-Velha",
+      "id": "20"
+    },
+    {
+      "province": "Nampula",
+      "name": "Nacarôa",
+      "id": "21"
+    },
+    {
+      "province": "Nampula",
+      "name": "Memba",
+      "id": "22"
+    },
+    {
+      "province": "Nampula",
+      "name": "Eráti",
+      "id": "23"
+    }
+  ],
+  "10": [
+    {
+      "province": "Cabo Delgado",
+      "name": "Mecufi",
+      "id": "01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Chiúre",
+      "id": "02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Namuno",
+      "id": "03"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Balama",
+      "id": "04"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Pemba",
+      "id": "05"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Metuge",
+      "id": "06"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Ancuabe",
+      "id": "07"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Quissanga",
+      "id": "08"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Ibo",
+      "id": "09"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Meluco",
+      "id": "10"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Montepuez",
+      "id": "11"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Macomia",
+      "id": "12"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Muidumbe",
+      "id": "13"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Mocímboa da Praia",
+      "id": "14"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Mueda",
+      "id": "15"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Palma",
+      "id": "16"
+    },
+    {
+      "province": "Cabo Delgado",
+      "name": "Nangade",
+      "id": "17"
+    }
+  ],
+  "11": [
+    {
+      "province": "Niassa",
+      "name": "Cuamba",
+      "id": "01"
+    },
+    {
+      "province": "Niassa",
+      "name": "Mecanhelas",
+      "id": "02"
+    },
+    {
+      "province": "Niassa",
+      "name": "Metarica",
+      "id": "03"
+    },
+    {
+      "province": "Niassa",
+      "name": "Mandimba",
+      "id": "04"
+    },
+    {
+      "province": "Niassa",
+      "name": "Nipepe",
+      "id": "05"
+    },
+    {
+      "province": "Niassa",
+      "name": "Maúa",
+      "id": "06"
+    },
+    {
+      "province": "Niassa",
+      "name": "Marrupa",
+      "id": "07"
+    },
+    {
+      "province": "Niassa",
+      "name": "Majune",
+      "id": "08"
+    },
+    {
+      "province": "Niassa",
+      "name": "Ngaúma",
+      "id": "09"
+    },
+    {
+      "province": "Niassa",
+      "name": "Chimbumila",
+      "id": "10"
+    },
+    {
+      "province": "Niassa",
+      "name": "Lichinga",
+      "id": "11"
+    },
+    {
+      "province": "Niassa",
+      "name": "Mecula",
+      "id": "12"
+    },
+    {
+      "province": "Niassa",
+      "name": "Mavago",
+      "id": "13"
+    },
+    {
+      "province": "Niassa",
+      "name": "Muembe",
+      "id": "14"
+    },
+    {
+      "province": "Niassa",
+      "name": "Sanga",
+      "id": "15"
+    },
+    {
+      "province": "Niassa",
+      "name": "Lago",
+      "id": "16"
+    }
+  ]
+}

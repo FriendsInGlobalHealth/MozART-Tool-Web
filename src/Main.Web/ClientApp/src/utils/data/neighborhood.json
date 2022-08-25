@@ -1,0 +1,3654 @@
+{
+  "0101": [
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMpfumu",
+      "name": "Alto Maé A",
+      "id": "0101-01"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMpfumu",
+      "name": "Alto Maé b",
+      "id": "0101-02"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMpfumu",
+      "name": "Central A",
+      "id": "0101-03"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMpfumu",
+      "name": "Central B",
+      "id": "0101-04"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMpfumu",
+      "name": "Central C",
+      "id": "0101-05"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMpfumu",
+      "name": "Coop",
+      "id": "0101-06"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMpfumu",
+      "name": "Malhangalene A",
+      "id": "0101-07"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMpfumu",
+      "name": "Malhangalene B",
+      "id": "0101-08"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMpfumu",
+      "name": "Polana Cimento A",
+      "id": "0101-09"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMpfumu",
+      "name": "Polana Cimento B",
+      "id": "0101-10"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMpfumu",
+      "name": "Sommerschield",
+      "id": "0101-11"
+    }
+  ],
+  "0102": [
+    {
+      "province": "Cidade de Maputo",
+      "city": "Nhlamankulu",
+      "name": "Aeroporto A",
+      "id": "0102-01"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "Nhlamankulu",
+      "name": "Aeroporto B",
+      "id": "0102-02"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "Nhlamankulu",
+      "name": "Chamanculo A",
+      "id": "0102-03"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "Nhlamankulu",
+      "name": "Chamanculo B",
+      "id": "0102-04"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "Nhlamankulu",
+      "name": "Chamanculo C",
+      "id": "0102-05"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "Nhlamankulu",
+      "name": "Chamanculo D",
+      "id": "0102-06"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "Nhlamankulu",
+      "name": "Malanga",
+      "id": "0102-07"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "Nhlamankulu",
+      "name": "Minkadjuine",
+      "id": "0102-08"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "Nhlamankulu",
+      "name": "Munhuana",
+      "id": "0102-09"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "Nhlamankulu",
+      "name": "Unidade 7",
+      "id": "0102-10"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "Nhlamankulu",
+      "name": "Xipamanine",
+      "id": "0102-11"
+    }
+  ],
+  "0103": [
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMaxakeni",
+      "name": "Mafalala",
+      "id": "0103-01"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMaxakeni",
+      "name": "Maxaquene A",
+      "id": "0103-02"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMaxakeni",
+      "name": "Maxaquene B",
+      "id": "0103-03"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMaxakeni",
+      "name": "Maxaquene C",
+      "id": "0103-04"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMaxakeni",
+      "name": "Maxaquene D",
+      "id": "0103-05"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMaxakeni",
+      "name": "Polana Caniço A",
+      "id": "0103-06"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMaxakeni",
+      "name": "Polana Caniço B",
+      "id": "0103-07"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMaxakeni",
+      "name": "Urbanização",
+      "id": "0103-08"
+    }
+  ],
+  "0104": [
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMavota",
+      "name": "3 de Fevereiro",
+      "id": "0104-01"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMavota",
+      "name": "Albazine",
+      "id": "0104-02"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMavota",
+      "name": "Costa do Sol",
+      "id": "0104-03"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMavota",
+      "name": "F.P.L.M",
+      "id": "0104-04"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMavota",
+      "name": "Ferroviário",
+      "id": "0104-05"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMavota",
+      "name": "Hulene A",
+      "id": "0104-06"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMavota",
+      "name": "Hulene B",
+      "id": "0104-07"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMavota",
+      "name": "Laulane",
+      "id": "0104-08"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMavota",
+      "name": "Mahotas",
+      "id": "0104-09"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMavota",
+      "name": "Mavalane A",
+      "id": "0104-10"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMavota",
+      "name": "Mavalane B",
+      "id": "0104-11"
+    }
+  ],
+  "0105": [
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "25 de Junho A",
+      "id": "0105-01"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "25 de Junho B",
+      "id": "0105-02"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Bagamoyo",
+      "id": "0105-03"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Inhagoia A",
+      "id": "0105-04"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Inhagoia B",
+      "id": "0105-05"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Jardim",
+      "id": "0105-06"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Jorge Dimitrov",
+      "id": "0105-07"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Luis Cabral",
+      "id": "0105-08"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Magoanine A",
+      "id": "0105-09"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Magoanine B",
+      "id": "0105-10"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Magoanine C",
+      "id": "0105-11"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Mahlazine",
+      "id": "0105-12"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Salene",
+      "id": "0105-13"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaMubukwana",
+      "name": "Zimpeto",
+      "id": "0105-14"
+    }
+  ],
+  "0106": [
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaTembe",
+      "name": "Chali",
+      "id": "0106-01"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaTembe",
+      "name": "Chamissava",
+      "id": "0106-02"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaTembe",
+      "name": "Guachene",
+      "id": "0106-03"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaTembe",
+      "name": "Incassane",
+      "id": "0106-04"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaTembe",
+      "name": "Inguide",
+      "id": "0106-05"
+    }
+  ],
+  "0107": [
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaNyaka",
+      "name": "Inguane",
+      "id": "0107-01"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaNyaka",
+      "name": "Nhaquene",
+      "id": "0107-02"
+    },
+    {
+      "province": "Cidade de Maputo",
+      "city": "KaNyaka",
+      "name": "Ribjene",
+      "id": "0107-03"
+    }
+  ],
+  "0201": [
+    {
+      "province": "Maputo",
+      "city": "Matutuine",
+      "name": "Bela Vista",
+      "id": "0201-01"
+    },
+    {
+      "province": "Maputo",
+      "city": "Matutuine",
+      "name": "Catembe Nsime",
+      "id": "0201-02"
+    },
+    {
+      "province": "Maputo",
+      "city": "Matutuine",
+      "name": "Catuane",
+      "id": "0201-03"
+    },
+    {
+      "province": "Maputo",
+      "city": "Matutuine",
+      "name": "Nachangulo",
+      "id": "0201-04"
+    },
+    {
+      "province": "Maputo",
+      "city": "Matutuine",
+      "name": "Zitundo",
+      "id": "0201-05"
+    }
+  ],
+  "0202": [
+    {
+      "province": "Maputo",
+      "city": "Namaacha",
+      "name": "Changalane",
+      "id": "0202-01"
+    },
+    {
+      "province": "Maputo",
+      "city": "Namaacha",
+      "name": "Namaacha",
+      "id": "0202-02"
+    }
+  ],
+  "0203": [
+    {
+      "province": "Maputo",
+      "city": "Boane",
+      "name": "Boane",
+      "id": "0203-01"
+    },
+    {
+      "province": "Maputo",
+      "city": "Boane",
+      "name": "Matola-Rio",
+      "id": "0203-02"
+    }
+  ],
+  "0204": [
+    {
+      "province": "Maputo",
+      "city": "Matola",
+      "name": "Infulene",
+      "id": "0204-01"
+    },
+    {
+      "province": "Maputo",
+      "city": "Matola",
+      "name": "Machava",
+      "id": "0204-02"
+    },
+    {
+      "province": "Maputo",
+      "city": "Matola",
+      "name": "Matola",
+      "id": "0204-03"
+    }
+  ],
+  "0205": [
+    {
+      "province": "Maputo",
+      "city": "Marracuene",
+      "name": "Machubo",
+      "id": "0205-01"
+    },
+    {
+      "province": "Maputo",
+      "city": "Marracuene",
+      "name": "Marracuene",
+      "id": "0205-02"
+    }
+  ],
+  "0206": [
+    {
+      "province": "Maputo",
+      "city": "Moamba",
+      "name": "Moamba",
+      "id": "0206-01"
+    },
+    {
+      "province": "Maputo",
+      "city": "Moamba",
+      "name": "Pessene",
+      "id": "0206-02"
+    },
+    {
+      "province": "Maputo",
+      "city": "Moamba",
+      "name": "Ressano Garcia",
+      "id": "0206-03"
+    },
+    {
+      "province": "Maputo",
+      "city": "Moamba",
+      "name": "Sábiè",
+      "id": "0206-04"
+    }
+  ],
+  "0207": [
+    {
+      "province": "Maputo",
+      "city": "Manhiça",
+      "name": "3 de Fevereiro",
+      "id": "0207-01"
+    },
+    {
+      "province": "Maputo",
+      "city": "Manhiça",
+      "name": "Calanga",
+      "id": "0207-02"
+    },
+    {
+      "province": "Maputo",
+      "city": "Manhiça",
+      "name": "Ilha Josina Machel",
+      "id": "0207-03"
+    },
+    {
+      "province": "Maputo",
+      "city": "Manhiça",
+      "name": "Maluana",
+      "id": "0207-04"
+    },
+    {
+      "province": "Maputo",
+      "city": "Manhiça",
+      "name": "Manhiça",
+      "id": "0207-05"
+    },
+    {
+      "province": "Maputo",
+      "city": "Manhiça",
+      "name": "Xinavane",
+      "id": "0207-06"
+    }
+  ],
+  "0208": [
+    {
+      "province": "Maputo",
+      "city": "Magude",
+      "name": "Magude",
+      "id": "0208-01"
+    },
+    {
+      "province": "Maputo",
+      "city": "Magude",
+      "name": "Mahele",
+      "id": "0208-02"
+    },
+    {
+      "province": "Maputo",
+      "city": "Magude",
+      "name": "Mapulanguene",
+      "id": "0208-03"
+    },
+    {
+      "province": "Maputo",
+      "city": "Magude",
+      "name": "Motaze",
+      "id": "0208-04"
+    },
+    {
+      "province": "Maputo",
+      "city": "Magude",
+      "name": "Panjane",
+      "id": "0208-05"
+    }
+  ],
+  "0301": [
+    {
+      "province": "Gaza",
+      "city": "Chongoene",
+      "name": "Chongoene",
+      "id": "0301-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chongoene",
+      "name": "Mazucane",
+      "id": "0301-02"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chongoene",
+      "name": "Nguzene",
+      "id": "0301-03"
+    }
+  ],
+  "0302": [
+    {
+      "province": "Gaza",
+      "city": "Xai-Xai",
+      "name": "Inhamissa",
+      "id": "0302-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Xai-Xai",
+      "name": "Patrice Lumumba",
+      "id": "0302-02"
+    },
+    {
+      "province": "Gaza",
+      "city": "Xai-Xai",
+      "name": "Praia de Xai-Xai",
+      "id": "0302-03"
+    },
+    {
+      "province": "Gaza",
+      "city": "Xai-Xai",
+      "name": "Xai-Xai",
+      "id": "0302-04"
+    }
+  ],
+  "0303": [
+    {
+      "province": "Gaza",
+      "city": "Limpopo",
+      "name": "Chicumbane",
+      "id": "0303-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Limpopo",
+      "name": "Chissano",
+      "id": "0303-02"
+    },
+    {
+      "province": "Gaza",
+      "city": "Limpopo",
+      "name": "Zongoene",
+      "id": "0303-03"
+    }
+  ],
+  "0304": [
+    {
+      "province": "Gaza",
+      "city": "Bilene",
+      "name": "Incaia",
+      "id": "0304-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Bilene",
+      "name": "Macia",
+      "id": "0304-02"
+    },
+    {
+      "province": "Gaza",
+      "city": "Bilene",
+      "name": "Macuane",
+      "id": "0304-03"
+    },
+    {
+      "province": "Gaza",
+      "city": "Bilene",
+      "name": "Mazivila",
+      "id": "0304-04"
+    },
+    {
+      "province": "Gaza",
+      "city": "Bilene",
+      "name": "Messano",
+      "id": "0304-05"
+    },
+    {
+      "province": "Gaza",
+      "city": "Bilene",
+      "name": "Praia de Bilene",
+      "id": "0304-06"
+    }
+  ],
+  "0305": [
+    {
+      "province": "Gaza",
+      "city": "Mandlakazi",
+      "name": "Chibonzane",
+      "id": "0305-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Mandlakazi",
+      "name": "Chidenguele",
+      "id": "0305-02"
+    },
+    {
+      "province": "Gaza",
+      "city": "Mandlakazi",
+      "name": "Macuácua",
+      "id": "0305-03"
+    },
+    {
+      "province": "Gaza",
+      "city": "Mandlakazi",
+      "name": "Mandlakazi",
+      "id": "0305-04"
+    },
+    {
+      "province": "Gaza",
+      "city": "Mandlakazi",
+      "name": "Xhalala",
+      "id": "0305-05"
+    }
+  ],
+  "0306": [
+    {
+      "province": "Gaza",
+      "city": "Chibuto",
+      "name": "Alto Changane",
+      "id": "0306-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chibuto",
+      "name": "Chaimite",
+      "id": "0306-02"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chibuto",
+      "name": "Changanine",
+      "id": "0306-03"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chibuto",
+      "name": "Chibuto",
+      "id": "0306-04"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chibuto",
+      "name": "Godide",
+      "id": "0306-05"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chibuto",
+      "name": "Malehice",
+      "id": "0306-06"
+    }
+  ],
+  "0307": [
+    {
+      "province": "Gaza",
+      "city": "Chókwè",
+      "name": "Chókwè",
+      "id": "0307-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chókwè",
+      "name": "Lionde",
+      "id": "0307-02"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chókwè",
+      "name": "Macarretane",
+      "id": "0307-03"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chókwè",
+      "name": "Xilembene",
+      "id": "0307-04"
+    }
+  ],
+  "0308": [
+    {
+      "province": "Gaza",
+      "city": "Guijá",
+      "name": "Caniçado",
+      "id": "0308-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Guijá",
+      "name": "Chivongoene",
+      "id": "0308-02"
+    },
+    {
+      "province": "Gaza",
+      "city": "Guijá",
+      "name": "Mubangoene",
+      "id": "0308-03"
+    },
+    {
+      "province": "Gaza",
+      "city": "Guijá",
+      "name": "Nalazi",
+      "id": "0308-04"
+    }
+  ],
+  "0309": [
+    {
+      "province": "Gaza",
+      "city": "Chigubo",
+      "name": "Chigubo",
+      "id": "0309-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chigubo",
+      "name": "Dindiza",
+      "id": "0309-02"
+    }
+  ],
+  "0310": [
+    {
+      "province": "Gaza",
+      "city": "Mabalane",
+      "name": "Combomune",
+      "id": "0310-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Mabalane",
+      "name": "Mabalaze",
+      "id": "0310-02"
+    },
+    {
+      "province": "Gaza",
+      "city": "Mabalane",
+      "name": "Ntlavene",
+      "id": "0310-03"
+    }
+  ],
+  "0311": [
+    {
+      "province": "Gaza",
+      "city": "Massingir",
+      "name": "Massingir",
+      "id": "0311-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Massingir",
+      "name": "Mavodze",
+      "id": "0311-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Massingir",
+      "name": "Zulo",
+      "id": "0310-03"
+    }
+  ],
+  "0312": [
+    {
+      "province": "Gaza",
+      "city": "Mapai",
+      "name": "Machaíla",
+      "id": "0312-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Mapai",
+      "name": "Mapai",
+      "id": "0312-02"
+    }
+  ],
+  "0313": [
+    {
+      "province": "Gaza",
+      "city": "Chicualacuala",
+      "name": "Eduardo Mondlane",
+      "id": "0313-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Chicualacuala",
+      "name": "Pafuri",
+      "id": "0313-02"
+    }
+  ],
+  "0314": [
+    {
+      "province": "Gaza",
+      "city": "Massangena",
+      "name": "Massangena",
+      "id": "0314-01"
+    },
+    {
+      "province": "Gaza",
+      "city": "Massangena",
+      "name": "Mavúe",
+      "id": "0314-02"
+    }
+  ],
+  "0401": [
+    {
+      "province": "Inhambane",
+      "city": "Zavala",
+      "name": "Quissico",
+      "id": "0401-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Zavala",
+      "name": "Zandamela",
+      "id": "0401-02"
+    }
+  ],
+  "0402": [
+    {
+      "province": "Inhambane",
+      "city": "Inharrime",
+      "name": "Inharrime",
+      "id": "0402-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inharrime",
+      "name": "Mocumbi",
+      "id": "0402-02"
+    }
+  ],
+  "0403": [
+    {
+      "province": "Inhambane",
+      "city": "Jangamo",
+      "name": "Cumbana",
+      "id": "0403-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Jangamo",
+      "name": "Jangamo",
+      "id": "0403-02"
+    }
+  ],
+  "0404": [
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Balane 1",
+      "id": "0404-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Balane 2",
+      "id": "0404-02"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Balane 3",
+      "id": "0404-03"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Chamane",
+      "id": "0404-04"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Chambale 1",
+      "id": "0404-05"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Chambale 2",
+      "id": "0404-06"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Conguiana",
+      "id": "0404-07"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Guitamatuno",
+      "id": "0404-08"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Ilha Inhambane",
+      "id": "0404-09"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Josina Machel",
+      "id": "0404-10"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Liberdade 1",
+      "id": "0404-11"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Liberdade 2",
+      "id": "0404-12"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Liberdade 3",
+      "id": "0404-13"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Machavenga",
+      "id": "0404-14"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Malembuane",
+      "id": "0404-15"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Marrambone",
+      "id": "0404-16"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Mucucune",
+      "id": "0404-17"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Muelé 1",
+      "id": "0404-18"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Muelé 2",
+      "id": "0404-19"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Muelé 3",
+      "id": "0404-20"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Nhamua",
+      "id": "0404-21"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Salele",
+      "id": "0404-22"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhambane",
+      "name": "Siquiriva",
+      "id": "0404-23"
+    }
+  ],
+  "0405": [
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Bembe",
+      "id": "0405-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Chambone A",
+      "id": "0405-02"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Chambone B",
+      "id": "0405-03"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Dambo",
+      "id": "0405-04"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Eduardo Mondlane",
+      "id": "0405-05"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Mabil",
+      "id": "0405-06"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Macuamene",
+      "id": "0405-07"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Macupula",
+      "id": "0405-08"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Malalane",
+      "id": "0405-09"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Manhala",
+      "id": "0405-10"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Mawewe",
+      "id": "0405-11"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Nhabanda",
+      "id": "0405-12"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Nhaguiviga",
+      "id": "0405-13"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Nhambiu",
+      "id": "0405-14"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Nhanguila",
+      "id": "0405-15"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Rumbana",
+      "id": "0405-16"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Maxixe",
+      "name": "Tinga-Tinga",
+      "id": "0405-17"
+    }
+  ],
+  "0406": [
+    {
+      "province": "Inhambane",
+      "city": "Homoíne",
+      "name": "Homoíne",
+      "id": "0406-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Pembe",
+      "name": "Tinga-Tinga",
+      "id": "0406-01"
+    }
+  ],
+  "0407": [
+    {
+      "province": "Inhambane",
+      "city": "Panda",
+      "name": "Mawayela",
+      "id": "0407-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Panda",
+      "name": "Panda",
+      "id": "0407-02"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Panda",
+      "name": "Urrene",
+      "id": "0407-03"
+    }
+  ],
+  "0408": [
+    {
+      "province": "Inhambane",
+      "city": "Morrumbene",
+      "name": "Mocodoene",
+      "id": "0408-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Morrumbene",
+      "name": "Morrumbene",
+      "id": "0408-02"
+    }
+  ],
+  "0409": [
+    {
+      "province": "Inhambane",
+      "city": "Massinga",
+      "name": "Chicomo",
+      "id": "0409-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Massinga",
+      "name": "Massinga",
+      "id": "0409-02"
+    }
+  ],
+  "0410": [
+    {
+      "province": "Inhambane",
+      "city": "Funhalouro",
+      "name": "Funhalouro",
+      "id": "0410-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Tome",
+      "name": "Tome",
+      "id": "0410-02"
+    }
+  ],
+  "0411": [
+    {
+      "province": "Inhambane",
+      "city": "Vilankulo",
+      "name": "Mapinhane",
+      "id": "0411-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Vilankulo",
+      "name": "Vilankulo",
+      "id": "0411-02"
+    }
+  ],
+  "0412": [
+    {
+      "province": "Inhambane",
+      "city": "Mabote",
+      "name": "Mabote",
+      "id": "0412-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Mabote",
+      "name": "Zimane",
+      "id": "0412-02"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Mabote",
+      "name": "Zinave",
+      "id": "0412-03"
+    }
+  ],
+  "0413": [
+    {
+      "province": "Inhambane",
+      "city": "Inhassoro",
+      "name": "Bazaruto",
+      "id": "0413-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Inhassoro",
+      "name": "Inhassoro",
+      "id": "0413-02"
+    }
+  ],
+  "0414": [
+    {
+      "province": "Inhambane",
+      "city": "Govuro",
+      "name": "Mambone",
+      "id": "0414-01"
+    },
+    {
+      "province": "Inhambane",
+      "city": "Govuro",
+      "name": "Save",
+      "id": "0414-02"
+    }
+  ],
+  "0501": [
+    {
+      "province": "Sofala",
+      "city": "Machanga",
+      "name": "Divinhe",
+      "id": "0501-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Machanga",
+      "name": "Machanga",
+      "id": "0501-02"
+    }
+  ],
+  "0502": [
+    {
+      "province": "Sofala",
+      "city": "Búzi",
+      "name": "Búzi",
+      "id": "0502-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Búzi",
+      "name": "Estaquinha",
+      "id": "0502-02"
+    },
+    {
+      "province": "Sofala",
+      "city": "Búzi",
+      "name": "Sofala",
+      "id": "0502-03"
+    }
+  ],
+  "0503": [
+    {
+      "province": "Sofala",
+      "city": "Chibabava",
+      "name": "Chibabava",
+      "id": "0503-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Chibabava",
+      "name": "Goonda",
+      "id": "0503-02"
+    },
+    {
+      "province": "Sofala",
+      "city": "Chibabava",
+      "name": "Muxúnguè",
+      "id": "0503-03"
+    }
+  ],
+  "0504": [
+    {
+      "province": "Sofala",
+      "city": "Beira",
+      "name": "Chiveve",
+      "id": "0504-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Beira",
+      "name": "Manga Loforte",
+      "id": "0504-02"
+    },
+    {
+      "province": "Sofala",
+      "city": "Beira",
+      "name": "Munhava",
+      "id": "0504-03"
+    },
+    {
+      "province": "Sofala",
+      "city": "Beira",
+      "name": "Nhamízua",
+      "id": "0504-04"
+    },
+    {
+      "province": "Sofala",
+      "city": "Beira",
+      "name": "Nhangau",
+      "id": "0504-05"
+    }
+  ],
+  "0505": [
+    {
+      "province": "Sofala",
+      "city": "Dondo",
+      "name": "Dondo",
+      "id": "0505-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Dondo",
+      "name": "Mafambisse",
+      "id": "0505-02"
+    }
+  ],
+  "0506": [
+    {
+      "province": "Sofala",
+      "city": "Nhamatanda",
+      "name": "Nhamatanda",
+      "id": "0506-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Nhamatanda",
+      "name": "Tica",
+      "id": "0506-02"
+    }
+  ],
+  "0507": [
+    {
+      "province": "Sofala",
+      "city": "Muanza",
+      "name": "Galinha",
+      "id": "0507-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Muanza",
+      "name": "Muanza",
+      "id": "0507-02"
+    }
+  ],
+  "0508": [
+    {
+      "province": "Sofala",
+      "city": "Gorongosa",
+      "name": "Gorongosa",
+      "id": "0508-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Gorongosa",
+      "name": "Nhamadze",
+      "id": "0508-02"
+    },
+    {
+      "province": "Sofala",
+      "city": "Gorongosa",
+      "name": "Vunduzi",
+      "id": "0508-03"
+    }
+  ],
+  "0509": [
+    {
+      "province": "Sofala",
+      "city": "Marromeu",
+      "name": "Chupanga",
+      "id": "0509-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Marromeu",
+      "name": "Marromeu",
+      "id": "0509-02"
+    }
+  ],
+  "0510": [
+    {
+      "province": "Sofala",
+      "city": "Cheringoma",
+      "name": "Inhaminga",
+      "id": "0510-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Cheringoma",
+      "name": "Inhamitanga",
+      "id": "0510-02"
+    }
+  ],
+  "0511": [
+    {
+      "province": "Sofala",
+      "city": "Caia",
+      "name": "Caia",
+      "id": "0511-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Caia",
+      "name": "Murraça",
+      "id": "0511-02"
+    },
+    {
+      "province": "Sofala",
+      "city": "Caia",
+      "name": "Sena",
+      "id": "0511-03"
+    }
+  ],
+  "0512": [
+    {
+      "province": "Sofala",
+      "city": "Marínguè",
+      "name": "Canxixe",
+      "id": "0512-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Marínguè",
+      "name": "Marínguè",
+      "id": "0512-02"
+    },
+    {
+      "province": "Sofala",
+      "city": "Marínguè",
+      "name": "Súbwè",
+      "id": "0512-03"
+    }
+  ],
+  "0513": [
+    {
+      "province": "Sofala",
+      "city": "Chemba",
+      "name": "Chemba",
+      "id": "0513-01"
+    },
+    {
+      "province": "Sofala",
+      "city": "Chemba",
+      "name": "Chiramba",
+      "id": "0513-02"
+    },
+    {
+      "province": "Sofala",
+      "city": "Chemba",
+      "name": "Mulima",
+      "id": "0513-03"
+    }
+  ],
+  "0601": [
+    {
+      "province": "Manica",
+      "city": "Machaze",
+      "name": "Chitobe",
+      "id": "0601-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Machaze",
+      "name": "Save",
+      "id": "0601-02"
+    }
+  ],
+  "0602": [
+    {
+      "province": "Manica",
+      "city": "Mossurize",
+      "name": "Chiuraine",
+      "id": "0602-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Mossurize",
+      "name": "Dacata",
+      "id": "0602-02"
+    },
+    {
+      "province": "Manica",
+      "city": "Mossurize",
+      "name": "Espungabera",
+      "id": "0602-03"
+    }
+  ],
+  "0603": [
+    {
+      "province": "Manica",
+      "city": "Sussundenga",
+      "name": "Dombe",
+      "id": "0603-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Sussundenga",
+      "name": "Muoha",
+      "id": "0603-02"
+    },
+    {
+      "province": "Manica",
+      "city": "Sussundenga",
+      "name": "Rotanda",
+      "id": "0603-03"
+    },
+    {
+      "province": "Manica",
+      "city": "Sussundenga",
+      "name": "Sussundenga",
+      "id": "0603-04"
+    }
+  ],
+  "0604": [
+    {
+      "province": "Manica",
+      "city": "Macate",
+      "name": "Macate",
+      "id": "0604-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Macate",
+      "name": "Zembe",
+      "id": "0604-02"
+    }
+  ],
+  "0605": [
+    {
+      "province": "Manica",
+      "city": "Gondola",
+      "name": "Amatongas",
+      "id": "0605-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Gondola",
+      "name": "Cafumpe",
+      "id": "0605-02"
+    },
+    {
+      "province": "Manica",
+      "city": "Gondola",
+      "name": "Gondola",
+      "id": "0605-03"
+    },
+    {
+      "province": "Manica",
+      "city": "Gondola",
+      "name": "Inchope",
+      "id": "0605-04"
+    }
+  ],
+  "0606": [
+    {
+      "province": "Manica",
+      "city": "Chimoio",
+      "name": "Posto Adm. N.1 (Sede)",
+      "id": "0606-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Chimoio",
+      "name": "Posto Adm. N.2",
+      "id": "0606-02"
+    },
+    {
+      "province": "Manica",
+      "city": "Chimoio",
+      "name": "Posto Adm. N.3",
+      "id": "0606-03"
+    }
+  ],
+  "0607": [
+    {
+      "province": "Manica",
+      "city": "Vanduzi",
+      "name": "Matsinho",
+      "id": "0607-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Vanduzi",
+      "name": "Vandizi",
+      "id": "0607-02"
+    }
+  ],
+  "0608": [
+    {
+      "province": "Manica",
+      "city": "Manica",
+      "name": "Manica",
+      "id": "0608-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Manica",
+      "name": "Machipanda",
+      "id": "0608-02"
+    },
+    {
+      "province": "Manica",
+      "city": "Manica",
+      "name": "Mavonde",
+      "id": "0608-03"
+    },
+    {
+      "province": "Manica",
+      "city": "Manica",
+      "name": "Messica",
+      "id": "0608-04"
+    }
+  ],
+  "0609": [
+    {
+      "province": "Manica",
+      "city": "Macossa",
+      "name": "Macossa",
+      "id": "0609-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Macossa",
+      "name": "Nguawala",
+      "id": "0609-02"
+    },
+    {
+      "province": "Manica",
+      "city": "Macossa",
+      "name": "Nhamagua",
+      "id": "0609-03"
+    }
+  ],
+  "0610": [
+    {
+      "province": "Manica",
+      "city": "Báruè",
+      "name": "Catandica",
+      "id": "0610-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Báruè",
+      "name": "Choa",
+      "id": "0610-02"
+    },
+    {
+      "province": "Manica",
+      "city": "Báruè",
+      "name": "Nhampassa",
+      "id": "0610-03"
+    }
+  ],
+  "0611": [
+    {
+      "province": "Manica",
+      "city": "Tambara",
+      "name": "Bazua",
+      "id": "0611-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Tambara",
+      "name": "Nhacafula",
+      "id": "0611-02"
+    },
+    {
+      "province": "Manica",
+      "city": "Tambara",
+      "name": "Nhacolo",
+      "id": "0611-03"
+    }
+  ],
+  "0612": [
+    {
+      "province": "Manica",
+      "city": "Guro",
+      "name": "Guro",
+      "id": "0612-01"
+    },
+    {
+      "province": "Manica",
+      "city": "Guro",
+      "name": "Mandie",
+      "id": "0612-02"
+    },
+    {
+      "province": "Manica",
+      "city": "Guro",
+      "name": "Mungari",
+      "id": "0612-03"
+    },
+    {
+      "province": "Manica",
+      "city": "Guro",
+      "name": "Nhamassonge",
+      "id": "0612-04"
+    }
+  ],
+  "0701": [
+    {
+      "province": "Tete",
+      "city": "Mutarara",
+      "name": "Charre",
+      "id": "0701-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Mutarara",
+      "name": "Inhangoma",
+      "id": "0701-02"
+    },
+    {
+      "province": "Tete",
+      "city": "Mutarara",
+      "name": "Nhamayabuè",
+      "id": "0701-03"
+    }
+  ],
+  "0702": [
+    {
+      "province": "Tete",
+      "city": "Dôa",
+      "name": "Chueza",
+      "id": "0702-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Dôa",
+      "name": "Dôa",
+      "id": "0702-02"
+    }
+  ],
+  "0703": [
+    {
+      "province": "Tete",
+      "city": "Changara",
+      "name": "Chiôco",
+      "id": "0703-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Changara",
+      "name": "Luenha",
+      "id": "0703-02"
+    }
+  ],
+  "0704": [
+    {
+      "province": "Tete",
+      "city": "Moatize",
+      "name": "Kambulatsitsi",
+      "id": "0704-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Moatize",
+      "name": "Moatize",
+      "id": "0704-02"
+    },
+    {
+      "province": "Tete",
+      "city": "Moatize",
+      "name": "Zóbuè",
+      "id": "0704-03"
+    }
+  ],
+  "0705": [
+    {
+      "province": "Tete",
+      "city": "Tete",
+      "name": "Chingodzi",
+      "id": "0705-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Tete",
+      "name": "Dégue",
+      "id": "0705-02"
+    },
+    {
+      "province": "Tete",
+      "city": "Tete",
+      "name": "Filipe Samuel Magaia",
+      "id": "0705-03"
+    },
+    {
+      "province": "Tete",
+      "city": "Tete",
+      "name": "Francisco Manyanga",
+      "id": "0705-04"
+    },
+    {
+      "province": "Tete",
+      "city": "Tete",
+      "name": "Josina Machel",
+      "id": "0705-05"
+    },
+    {
+      "province": "Tete",
+      "city": "Tete",
+      "name": "Mateus Sansão Muthemba",
+      "id": "0705-06"
+    },
+    {
+      "province": "Tete",
+      "city": "Tete",
+      "name": "Matundo",
+      "id": "0705-07"
+    },
+    {
+      "province": "Tete",
+      "city": "Tete",
+      "name": "Mpádué",
+      "id": "0705-08"
+    },
+    {
+      "province": "Tete",
+      "city": "Tete",
+      "name": "Samora Machel",
+      "id": "0705-09"
+    }
+  ],
+  "0706": [
+    {
+      "province": "Tete",
+      "city": "Marara",
+      "name": "Marara",
+      "id": "0706-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Marara",
+      "name": "Mufa-Boroma",
+      "id": "0706-02"
+    }
+  ],
+  "0707": [
+    {
+      "province": "Tete",
+      "city": "Cahora-Bassa",
+      "name": "Chintholo",
+      "id": "0707-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Cahora-Bassa",
+      "name": "Chitima",
+      "id": "0707-02"
+    },
+    {
+      "province": "Tete",
+      "city": "Cahora-Bassa",
+      "name": "Songo",
+      "id": "0707-03"
+    }
+  ],
+  "0708": [
+    {
+      "province": "Tete",
+      "city": "Mágoè",
+      "name": "Chinthopo",
+      "id": "0708-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Mágoè",
+      "name": "Mphende",
+      "id": "0708-02"
+    },
+    {
+      "province": "Tete",
+      "city": "Mágoè",
+      "name": "Mukumbura",
+      "id": "0708-03"
+    }
+  ],
+  "0709": [
+    {
+      "province": "Tete",
+      "city": "Tsangano",
+      "name": "Ntengo-Wa-Mbalame",
+      "id": "0709-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Tsangano",
+      "name": "Tsangano",
+      "id": "0709-02"
+    }
+  ],
+  "0710": [
+    {
+      "province": "Tete",
+      "city": "Chiúta",
+      "name": "Kazula",
+      "id": "0710-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Chiúta",
+      "name": "Manje",
+      "id": "0710-02"
+    }
+  ],
+  "0711": [
+    {
+      "province": "Tete",
+      "city": "Marávia",
+      "name": "Chipera",
+      "id": "0711-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Marávia",
+      "name": "Chiputu",
+      "id": "0711-02"
+    },
+    {
+      "province": "Tete",
+      "city": "Marávia",
+      "name": "Fíngoè",
+      "id": "0711-03"
+    },
+    {
+      "province": "Tete",
+      "city": "Marávia",
+      "name": "Malowera",
+      "id": "0711-04"
+    }
+  ],
+  "0712": [
+    {
+      "province": "Tete",
+      "city": "Zumbu",
+      "name": "Muze",
+      "id": "0712-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Zumbu",
+      "name": "Zâmbuè",
+      "id": "0712-02"
+    },
+    {
+      "province": "Tete",
+      "city": "Zumbu",
+      "name": "Zumbu",
+      "id": "0712-03"
+    }
+  ],
+  "0713": [
+    {
+      "province": "Tete",
+      "city": "Angónia",
+      "name": "Dómuè",
+      "id": "0713-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Angónia",
+      "name": "Ulónguè",
+      "id": "0713-02"
+    }
+  ],
+  "0714": [
+    {
+      "province": "Tete",
+      "city": "Macanga",
+      "name": "Chidzolomondo",
+      "id": "0714-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Macanga",
+      "name": "Furancungo",
+      "id": "0714-02"
+    }
+  ],
+  "0715": [
+    {
+      "province": "Tete",
+      "city": "Chifunde",
+      "name": "Chifunde",
+      "id": "0715-01"
+    },
+    {
+      "province": "Tete",
+      "city": "Chifunde",
+      "name": "Mualadzi",
+      "id": "0715-02"
+    },
+    {
+      "province": "Tete",
+      "city": "Chifunde",
+      "name": "Nsadzu",
+      "id": "0715-03"
+    }
+  ],
+  "0801": [
+    {
+      "province": "Zambézia",
+      "city": "Chinde",
+      "name": "Chinde",
+      "id": "0801-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Chinde",
+      "name": "Micaúne",
+      "id": "0801-02"
+    }
+  ],
+  "0802": [
+    {
+      "province": "Zambézia",
+      "city": "Luabo",
+      "name": "Chimbazo",
+      "id": "0802-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Luabo",
+      "name": "Luabo",
+      "id": "0802-02"
+    }
+  ],
+  "0803": [
+    {
+      "province": "Zambézia",
+      "city": "Inhassunge",
+      "name": "Gonhane",
+      "id": "0803-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Inhassunge",
+      "name": "Inhassunge",
+      "id": "0803-02"
+    }
+  ],
+  "0804": [
+    {
+      "province": "Zambézia",
+      "city": "Quelimane",
+      "name": "Posto Adm. N.1",
+      "id": "0804-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Quelimane",
+      "name": "Posto Adm. N.2",
+      "id": "0804-02"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Quelimane",
+      "name": "Posto Adm. N.3",
+      "id": "0804-03"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Quelimane",
+      "name": "Posto Adm. N.4",
+      "id": "0804-04"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Quelimane",
+      "name": "Posto Adm. N.5",
+      "id": "0804-05"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Quelimane",
+      "name": "Maquival",
+      "id": "0804-06"
+    }
+  ],
+  "0805": [
+    {
+      "province": "Zambézia",
+      "city": "Mopeia",
+      "name": "Campo",
+      "id": "0805-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Mopeia",
+      "name": "Mopeia",
+      "id": "0805-02"
+    }
+  ],
+  "0806": [
+    {
+      "province": "Zambézia",
+      "city": "Namacurra",
+      "name": "Macuse",
+      "id": "0806-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Namacurra",
+      "name": "Namacurra",
+      "id": "0806-02"
+    }
+  ],
+  "0807": [
+    {
+      "province": "Zambézia",
+      "city": "Nicoadala",
+      "name": "Nicoadala",
+      "id": "0807-01"
+    }
+  ],
+  "0808": [
+    {
+      "province": "Zambézia",
+      "city": "Maganja da Costa",
+      "name": "Baixo Licungo",
+      "id": "0808-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Maganja da Costa",
+      "name": "Magabja",
+      "id": "0808-02"
+    }
+  ],
+  "0809": [
+    {
+      "province": "Zambézia",
+      "city": "Mocubela",
+      "name": "Bajone",
+      "id": "0809-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Mocubela",
+      "name": "Mocubela",
+      "id": "0809-02"
+    }
+  ],
+  "0810": [
+    {
+      "province": "Zambézia",
+      "city": "Mocuba",
+      "name": "Mocuba",
+      "id": "0810-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Mocuba",
+      "name": "Mugeba",
+      "id": "0810-02"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Mocuba",
+      "name": "Namanjavira",
+      "id": "0810-03"
+    }
+  ],
+  "0811": [
+    {
+      "province": "Zambézia",
+      "city": "Derre",
+      "name": "Derre",
+      "id": "0811-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Derre",
+      "name": "Guerissa",
+      "id": "0811-02"
+    }
+  ],
+  "0812": [
+    {
+      "province": "Zambézia",
+      "city": "Morrumbala",
+      "name": "Chire",
+      "id": "0812-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Morrumbala",
+      "name": "Megaza",
+      "id": "0812-02"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Morrumbala",
+      "name": "Morrumbala",
+      "id": "0812-03"
+    }
+  ],
+  "0813": [
+    {
+      "province": "Zambézia",
+      "city": "Pebane",
+      "name": "Mulela",
+      "id": "0813-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Pebane",
+      "name": "Nabúri",
+      "id": "0813-02"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Pebane",
+      "name": "Pebane",
+      "id": "0813-03"
+    }
+  ],
+  "0814": [
+    {
+      "province": "Zambézia",
+      "city": "Mulevala",
+      "name": "Chiraco",
+      "id": "0814-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Mulevala",
+      "name": "Mulevala",
+      "id": "0814-02"
+    }
+  ],
+  "0815": [
+    {
+      "province": "Zambézia",
+      "city": "Lugela",
+      "name": "Lugela",
+      "id": "0815-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Lugela",
+      "name": "Muabanama",
+      "id": "0815-02"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Lugela",
+      "name": "Munhamade",
+      "id": "0815-03"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Lugela",
+      "name": "Tacuane",
+      "id": "0815-04"
+    }
+  ],
+  "0816": [
+    {
+      "province": "Zambézia",
+      "city": "Milange",
+      "name": "Majaua",
+      "id": "0816-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Milange",
+      "name": "Milange",
+      "id": "0816-02"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Milange",
+      "name": "Mongue",
+      "id": "0816-03"
+    }
+  ],
+  "0817": [
+    {
+      "province": "Zambézia",
+      "city": "Gilé",
+      "name": "Alto Ligonha",
+      "id": "0817-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Gilé",
+      "name": "Gilé",
+      "id": "0817-02"
+    }
+  ],
+  "0818": [
+    {
+      "province": "Zambézia",
+      "city": "Alto Molócuè",
+      "name": "Molócuè",
+      "id": "0818-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Alto Molócuè",
+      "name": "Nauela",
+      "id": "0818-02"
+    }
+  ],
+  "0819": [
+    {
+      "province": "Zambézia",
+      "city": "Ile",
+      "name": "Ile",
+      "id": "0819-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Ile",
+      "name": "Namigonha",
+      "id": "0819-02"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Ile",
+      "name": "Socone",
+      "id": "0819-03"
+    }
+  ],
+  "0820": [
+    {
+      "province": "Zambézia",
+      "city": "Namarrói",
+      "name": "Namarrói",
+      "id": "0820-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Namarrói",
+      "name": "Regone",
+      "id": "0820-02"
+    }
+  ],
+  "0821": [
+    {
+      "province": "Zambézia",
+      "city": "Molumbo",
+      "name": "Corromana",
+      "id": "0821-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Molumbo",
+      "name": "Molumbo",
+      "id": "0821-02"
+    }
+  ],
+  "0822": [
+    {
+      "province": "Zambézia",
+      "city": "Guruè",
+      "name": "Guruè",
+      "id": "0822-01"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Guruè",
+      "name": "Lioma",
+      "id": "0822-02"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Guruè",
+      "name": "Mepuagiua",
+      "id": "0822-03"
+    }
+  ],
+  "0901": [
+    {
+      "province": "Nampula",
+      "city": "Moma",
+      "name": "Chalaua",
+      "id": "0901-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Moma",
+      "name": "Moma",
+      "id": "0901-02"
+    }
+  ],
+  "0902": [
+    {
+      "province": "Nampula",
+      "city": "Larde",
+      "name": "Larde",
+      "id": "0902-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Larde",
+      "name": "Mucuali",
+      "id": "0902-02"
+    }
+  ],
+  "0903": [
+    {
+      "province": "Nampula",
+      "city": "Angoche",
+      "name": "Angoche",
+      "id": "0903-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Angoche",
+      "name": "Aúbe",
+      "id": "0903-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Angoche",
+      "name": "Boila",
+      "id": "0903-03"
+    },
+    {
+      "province": "Nampula",
+      "city": "Angoche",
+      "name": "Namaponda",
+      "id": "0903-04"
+    }
+  ],
+  "0904": [
+    {
+      "province": "Nampula",
+      "city": "Mogovolas",
+      "name": "Calipo",
+      "id": "0904-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Mogovolas",
+      "name": "Lulúti",
+      "id": "0904-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Mogovolas",
+      "name": "Muatua",
+      "id": "0904-03"
+    },
+    {
+      "province": "Zambézia",
+      "city": "Mogovolas",
+      "name": "Nameti",
+      "id": "0904-04"
+    },
+    {
+      "province": "Nampula",
+      "city": "Mogovolas",
+      "name": "Nanhupo-Rio",
+      "id": "0904-05"
+    }
+  ],
+  "0905": [
+    {
+      "province": "Nampula",
+      "city": "Murrupula",
+      "name": "Chinga",
+      "id": "0905-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Murrupula",
+      "name": "Murrupula",
+      "id": "0905-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Murrupula",
+      "name": "Nihessiue",
+      "id": "0905-03"
+    }
+  ],
+  "0906": [
+    {
+      "province": "Nampula",
+      "city": "Liúpo",
+      "name": "Liúpo",
+      "id": "0906-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Liúpo",
+      "name": "Quinga",
+      "id": "0906-02"
+    }
+  ],
+  "0907": [
+    {
+      "province": "Nampula",
+      "city": "Mongincual",
+      "name": "Namige",
+      "id": "0907-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Mongincual",
+      "name": "Quixaxe",
+      "id": "0907-02"
+    }
+  ],
+  "0908": [
+    {
+      "province": "Nampula",
+      "city": "Meconta",
+      "name": "7 de Abril",
+      "id": "0908-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Meconta",
+      "name": "Corrane",
+      "id": "0908-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Meconta",
+      "name": "Meconta",
+      "id": "0908-03"
+    },
+    {
+      "province": "Nampula",
+      "city": "Meconta",
+      "name": "Namialo",
+      "id": "0908-04"
+    }
+  ],
+  "0909": [
+    {
+      "province": "Nampula",
+      "city": "Nampula",
+      "name": "Anchilo",
+      "id": "0909-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Nampula",
+      "name": "Central",
+      "id": "0909-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Nampula",
+      "name": "Muatala",
+      "id": "0909-03"
+    },
+    {
+      "province": "Nampula",
+      "city": "Nampula",
+      "name": "Namicopo",
+      "id": "0909-04"
+    },
+    {
+      "province": "Nampula",
+      "city": "Nampula",
+      "name": "Napipine",
+      "id": "0909-05"
+    },
+    {
+      "province": "Nampula",
+      "city": "Nampula",
+      "name": "Natikire",
+      "id": "0909-06"
+    }
+  ],
+  "0910": [
+    {
+      "province": "Nampula",
+      "city": "Rapale",
+      "name": "Mutivasse",
+      "id": "0910-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Rapale",
+      "name": "Namaita",
+      "id": "0910-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Rapale",
+      "name": "Rapale",
+      "id": "0910-03"
+    }
+  ],
+  "0911": [
+    {
+      "province": "Nampula",
+      "city": "Ribáuè",
+      "name": "Cunle",
+      "id": "0911-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Ribáuè",
+      "name": "Lapala",
+      "id": "0911-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Ribáuè",
+      "name": "Ribáuè",
+      "id": "0911-03"
+    }
+  ],
+  "0912": [
+    {
+      "province": "Nampula",
+      "city": "Malema",
+      "name": "Canhunha",
+      "id": "0912-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Malema",
+      "name": "Chihulo",
+      "id": "0912-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Malema",
+      "name": "Malema",
+      "id": "0912-03"
+    },
+    {
+      "province": "Nampula",
+      "city": "Malema",
+      "name": "Mutuáli",
+      "id": "0912-04"
+    }
+  ],
+  "0913": [
+    {
+      "province": "Nampula",
+      "city": "ILha de Moçambique",
+      "name": "ILha de Moçambique",
+      "id": "0913-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "ILha de Moçambique",
+      "name": "Lumbo",
+      "id": "0913-02"
+    }
+  ],
+  "0914": [
+    {
+      "province": "Nampula",
+      "city": "Mossuril",
+      "name": "Lunga",
+      "id": "0914-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Mossuril",
+      "name": "Matibane",
+      "id": "0914-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Mossuril",
+      "name": "Mossuril",
+      "id": "0914-03"
+    }
+  ],
+  "0915": [
+    {
+      "province": "Nampula",
+      "city": "Monapo",
+      "name": "Itoculo",
+      "id": "0915-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Monapo",
+      "name": "Monapo",
+      "id": "0915-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Monapo",
+      "name": "Netia",
+      "id": "0915-03"
+    }
+  ],
+  "0916": [
+    {
+      "province": "Nampula",
+      "city": "Muecate",
+      "name": "Imala",
+      "id": "0916-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Muecate",
+      "name": "Muculuone",
+      "id": "0916-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Muecate",
+      "name": "Muecate",
+      "id": "0916-03"
+    }
+  ],
+  "0917": [
+    {
+      "province": "Nampula",
+      "city": "Mecubúri",
+      "name": "Mecubúri",
+      "id": "0917-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Mecubúri",
+      "name": "Milhana",
+      "id": "0917-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Mecubúri",
+      "name": "Muíte",
+      "id": "0917-03"
+    },
+    {
+      "province": "Nampula",
+      "city": "Mecubúri",
+      "name": "Namina",
+      "id": "0917-04"
+    }
+  ],
+  "0918": [
+    {
+      "province": "Nampula",
+      "city": "Lalaua",
+      "name": "Lalaua",
+      "id": "0918-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Lalaua",
+      "name": "Méti",
+      "id": "0918-02"
+    }
+  ],
+  "0919": [
+    {
+      "province": "Nampula",
+      "city": "Nacala",
+      "name": "Muanona",
+      "id": "0919-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Nacala",
+      "name": "Mutiva",
+      "id": "0919-02"
+    }
+  ],
+  "0920": [
+    {
+      "province": "Nampula",
+      "city": "Nacala-a-Velha",
+      "name": "Covó",
+      "id": "0920-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Nacala-a-Velha",
+      "name": "Nacala-a-Velha",
+      "id": "0920-02"
+    }
+  ],
+  "0921": [
+    {
+      "province": "Nampula",
+      "city": "Nacarôa",
+      "name": "Inteta",
+      "id": "0921-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Nacarôa",
+      "name": "Nacarôa",
+      "id": "0921-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Nacarôa",
+      "name": "Saua-Saua",
+      "id": "0921-03"
+    }
+  ],
+  "0922": [
+    {
+      "province": "Nampula",
+      "city": "Memba",
+      "name": "Chipene",
+      "id": "0922-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Memba",
+      "name": "Lúrio",
+      "id": "0922-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Memba",
+      "name": "Mazua",
+      "id": "0922-03"
+    },
+    {
+      "province": "Nampula",
+      "city": "Memba",
+      "name": "Memba",
+      "id": "0922-04"
+    }
+  ],
+  "0923": [
+    {
+      "province": "Nampula",
+      "city": "Eráti",
+      "name": "Alaua",
+      "id": "0923-01"
+    },
+    {
+      "province": "Nampula",
+      "city": "Eráti",
+      "name": "Namapa",
+      "id": "0923-02"
+    },
+    {
+      "province": "Nampula",
+      "city": "Eráti",
+      "name": "Namirôa",
+      "id": "0923-03"
+    }
+  ],
+  "1001": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Mecufi",
+      "name": "Mecufi",
+      "id": "1001-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Mecufi",
+      "name": "Murrébuè",
+      "id": "1001-02"
+    }
+  ],
+  "1002": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Chiúre",
+      "name": "Chiúre",
+      "id": "1002-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Chiúre",
+      "name": "Chiúre-Velho",
+      "id": "1002-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Chiúre",
+      "name": "Katapua",
+      "id": "1002-03"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Chiúre",
+      "name": "Mazeze",
+      "id": "1002-04"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Chiúre",
+      "name": "Namogelia",
+      "id": "1002-05"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Chiúre",
+      "name": "Ocua",
+      "id": "1002-06"
+    }
+  ],
+  "1003": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Namuno",
+      "name": "Hucula",
+      "id": "1003-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Namuno",
+      "name": "Machoca",
+      "id": "1003-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Namuno",
+      "name": "Meloco",
+      "id": "1003-03"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Namuno",
+      "name": "Namuno",
+      "id": "1003-04"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Namuno",
+      "name": "N'Cumpe",
+      "id": "1003-05"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Namuno",
+      "name": "Papai",
+      "id": "1003-06"
+    }
+  ],
+  "1004": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Balama",
+      "name": "Balama",
+      "id": "1004-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Balama",
+      "name": "Impiri",
+      "id": "1004-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Balama",
+      "name": "Kuékué",
+      "id": "1004-03"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Balama",
+      "name": "Mavale",
+      "id": "1004-04"
+    }
+  ],
+  "1005": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Pemba",
+      "name": "Alto Gingone",
+      "id": "1005-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Pemba",
+      "name": "Cariacó",
+      "id": "1005-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Pemba",
+      "name": "Cimento",
+      "id": "1005-03"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Pemba",
+      "name": "Chuiba",
+      "id": "1005-04"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Pemba",
+      "name": "Eduardo Mondlane",
+      "id": "1005-05"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Pemba",
+      "name": "Ingonane",
+      "id": "1005-06"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Pemba",
+      "name": "Marringanha",
+      "id": "1005-07"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Pemba",
+      "name": "Muxara",
+      "id": "1005-08"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Pemba",
+      "name": "Natite",
+      "id": "1005-09"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Pemba",
+      "name": "Paquitequete",
+      "id": "1005-10"
+    }
+  ],
+  "1006": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Metuge",
+      "name": "Metuge",
+      "id": "1006-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Metuge",
+      "name": "Mieze",
+      "id": "1006-02"
+    }
+  ],
+  "1007": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Ancuabe",
+      "name": "Ancuabe",
+      "id": "1007-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Ancuabe",
+      "name": "Metoro",
+      "id": "1007-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Ancuabe",
+      "name": "Mesa",
+      "id": "1007-03"
+    }
+  ],
+  "1008": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Quissanga",
+      "name": "Bilibiza",
+      "id": "1008-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Quissanga",
+      "name": "Mahate",
+      "id": "1008-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Quissanga",
+      "name": "Quissanga",
+      "id": "1008-03"
+    }
+  ],
+  "1009": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Ibo",
+      "name": "Ibo",
+      "id": "1009-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Ibo",
+      "name": "Quirimba",
+      "id": "1009-02"
+    }
+  ],
+  "1010": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Meluco",
+      "name": "Meluco",
+      "id": "1010-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Meluco",
+      "name": "Muaguide",
+      "id": "1010-02"
+    }
+  ],
+  "1011": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Montepuez",
+      "name": "Mapupulo",
+      "id": "1011-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Montepuez",
+      "name": "Mirate",
+      "id": "1011-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Montepuez",
+      "name": "Montepuez",
+      "id": "1011-03"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Montepuez",
+      "name": "Nairoto",
+      "id": "1011-04"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Montepuez",
+      "name": "Namanhumbir",
+      "id": "1011-05"
+    }
+  ],
+  "1012": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Macomia",
+      "name": "Chai",
+      "id": "1012-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Macomia",
+      "name": "Macomia",
+      "id": "1012-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Macomia",
+      "name": "Mucojo",
+      "id": "1012-03"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Macomia",
+      "name": "Quiterajo",
+      "id": "1012-04"
+    }
+  ],
+  "1013": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Muidumbe",
+      "name": "Chitunda",
+      "id": "1013-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Muidumbe",
+      "name": "Miteda",
+      "id": "1013-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Muidumbe",
+      "name": "Muidumbe",
+      "id": "1013-03"
+    }
+  ],
+  "1014": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Mocímboa da Praia",
+      "name": "Diaca",
+      "id": "1014-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Mocímboa da Praia",
+      "name": "Mbau",
+      "id": "1014-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Mocímboa da Praia",
+      "name": "Mocímboa da Praia",
+      "id": "1014-03"
+    }
+  ],
+  "1015": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Mueda",
+      "name": "Chapa",
+      "id": "1015-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Mueda",
+      "name": "Imbuo",
+      "id": "1015-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Mueda",
+      "name": "Mueda",
+      "id": "1015-03"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Mueda",
+      "name": "Negomano",
+      "id": "1015-04"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Mueda",
+      "name": "N'gapa",
+      "id": "1015-05"
+    }
+  ],
+  "1016": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Palma",
+      "name": "Olumbi",
+      "id": "1016-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Palma",
+      "name": "Palma",
+      "id": "1016-02"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Palma",
+      "name": "Pundanhar",
+      "id": "1016-03"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Palma",
+      "name": "Quionga",
+      "id": "1016-04"
+    }
+  ],
+  "1017": [
+    {
+      "province": "Cabo Delgado",
+      "city": "Nangade",
+      "name": "Nangade",
+      "id": "1017-01"
+    },
+    {
+      "province": "Cabo Delgado",
+      "city": "Nangade",
+      "name": "M'tamba",
+      "id": "1017-02"
+    }
+  ],
+  "1101": [
+    {
+      "province": "Niassa",
+      "city": "Cuamba",
+      "name": "Cuamba",
+      "id": "1101-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Cuamba",
+      "name": "Etatara",
+      "id": "1101-02"
+    },
+    {
+      "province": "Niassa",
+      "city": "Cuamba",
+      "name": "Lúrio",
+      "id": "1101-03"
+    }
+  ],
+  "1102": [
+    {
+      "province": "Niassa",
+      "city": "Mecanhelas",
+      "name": "Chiúta",
+      "id": "1102-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Mecanhelas",
+      "name": "Insaca",
+      "id": "1102-02"
+    }
+  ],
+  "1103": [
+    {
+      "province": "Niassa",
+      "city": "Metarica",
+      "name": "Metarica",
+      "id": "1103-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Metarica",
+      "name": "Nacumua",
+      "id": "1103-02"
+    }
+  ],
+  "1104": [
+    {
+      "province": "Niassa",
+      "city": "Mandimba",
+      "name": "Mandimba",
+      "id": "1104-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Mandimba",
+      "name": "Mitande",
+      "id": "1104-02"
+    }
+  ],
+  "1105": [
+    {
+      "province": "Niassa",
+      "city": "Nipepe",
+      "name": "Muipite",
+      "id": "1105-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Nipepe",
+      "name": "Nipepe",
+      "id": "1105-02"
+    }
+  ],
+  "1106": [
+    {
+      "province": "Niassa",
+      "city": "Maúa",
+      "name": "Maiaca",
+      "id": "1106-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Maúa",
+      "name": "Maúa",
+      "id": "1106-02"
+    }
+  ],
+  "1107": [
+    {
+      "province": "Niassa",
+      "city": "Marrupa",
+      "name": "Marangira",
+      "id": "1107-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Marrupa",
+      "name": "Marrupa",
+      "id": "1107-02"
+    },
+    {
+      "province": "Niassa",
+      "city": "Marrupa",
+      "name": "Nungo",
+      "id": "1107-03"
+    }
+  ],
+  "1108": [
+    {
+      "province": "Niassa",
+      "city": "Majune",
+      "name": "Malanga",
+      "id": "1108-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Majune",
+      "name": "Muaquia",
+      "id": "1108-02"
+    },
+    {
+      "province": "Niassa",
+      "city": "Majune",
+      "name": "Nairubi",
+      "id": "1108-03"
+    }
+  ],
+  "1109": [
+    {
+      "province": "Niassa",
+      "city": "Ngaúma",
+      "name": "Itepela",
+      "id": "1109-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Ngaúma",
+      "name": "Massangulo",
+      "id": "1109-02"
+    }
+  ],
+  "1110": [
+    {
+      "province": "Niassa",
+      "city": "Chimbunila",
+      "name": "Chimbunila",
+      "id": "1110-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Chimbunila",
+      "name": "Lione",
+      "id": "1110-02"
+    }
+  ],
+  "1111": [
+    {
+      "province": "Niassa",
+      "city": "Lichinga",
+      "name": "Lichinga",
+      "id": "1111-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Lichinga",
+      "name": "Meponda",
+      "id": "1111-02"
+    }
+  ],
+  "1112": [
+    {
+      "province": "Niassa",
+      "city": "Mecula",
+      "name": "Matondovela",
+      "id": "1112-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Mecula",
+      "name": "Mecula",
+      "id": "1112-02"
+    }
+  ],
+  "1113": [
+    {
+      "province": "Niassa",
+      "city": "Mavago",
+      "name": "Mavago",
+      "id": "1113-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Mavago",
+      "name": "M'Sawize",
+      "id": "1113-02"
+    }
+  ],
+  "1114": [
+    {
+      "province": "Niassa",
+      "city": "Muembe",
+      "name": "Chiconono",
+      "id": "1114-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Muembe",
+      "name": "Muembe",
+      "id": "1114-02"
+    }
+  ],
+  "1115": [
+    {
+      "province": "Niassa",
+      "city": "Sanga",
+      "name": "Lussimbesse",
+      "id": "1115-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Sanga",
+      "name": "Macaloge",
+      "id": "1115-02"
+    },
+    {
+      "province": "Niassa",
+      "city": "Sanga",
+      "name": "Madjedje",
+      "id": "1115-03"
+    },
+    {
+      "province": "Niassa",
+      "city": "Sanga",
+      "name": "Unango",
+      "id": "1115-04"
+    }
+  ],
+  "1116": [
+    {
+      "province": "Niassa",
+      "city": "Lago",
+      "name": "Cóbuè",
+      "id": "1116-01"
+    },
+    {
+      "province": "Niassa",
+      "city": "Lago",
+      "name": "Lunho",
+      "id": "1116-02"
+    },
+    {
+      "province": "Niassa",
+      "city": "Lago",
+      "name": "Maniamba",
+      "id": "1116-03"
+    },
+    {
+      "province": "Niassa",
+      "city": "Lago",
+      "name": "Metangula",
+      "id": "1116-04"
+    }
+  ]
+}

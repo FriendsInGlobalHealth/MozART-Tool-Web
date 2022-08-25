@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Cidade de Maputo",
+    "id": "01"
+  },
+  {
+    "name": "Maputo",
+    "id": "02"
+  },
+  {
+    "name": "Gaza",
+    "id": "03"
+  },
+  {
+    "name": "Inhambane",
+    "id": "04"
+  },
+  {
+    "name": "Sofala",
+    "id": "05"
+  },
+  {
+    "name": "Manica",
+    "id": "06"
+  },
+  {
+    "name": "Tete",
+    "id": "07"
+  },
+  {
+    "name": "Zambézia",
+    "id": "08"
+  },
+  {
+    "name": "Nampula",
+    "id": "09"
+  },
+  {
+    "name": "Cabo Delgado",
+    "id": "10"
+  },
+  {
+    "name": "Niassa",
+    "id": "11"
+  }
+]

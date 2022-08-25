@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "ADMIN",
+    "label": "Admin"
+  },
+  {
+    "id": "2",
+    "name": "SUPER",
+    "label": "Super User"
+  },
+  {
+    "id": "3",
+    "name": "BASIC",
+    "label": "Basic User"
+  }
+]
